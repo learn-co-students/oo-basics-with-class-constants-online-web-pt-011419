@@ -1,4 +1,4 @@
-# Object Orientation Basics With Class Constants
+s.# Object Orientation Basics With Class Constants
 
 ## Objectives
 1. Understand what a class constant is
